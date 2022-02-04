@@ -1,2 +1,2 @@
-# apssdc-skill-oriented-course
+# APSSDC-Skill-Oriented-Course
 python workshop
